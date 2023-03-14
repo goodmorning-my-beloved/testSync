@@ -1,3 +1,2 @@
-# testSync yes
-
-这是版本0.2的提交
+假如我是第一个版本
+release-v1.0.0
