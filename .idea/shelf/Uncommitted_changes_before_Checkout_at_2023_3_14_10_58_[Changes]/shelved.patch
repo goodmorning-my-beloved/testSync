@@ -1,0 +1,13 @@
+Index: test
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>ceshi 
+===================================================================
+diff --git a/test b/test
+--- a/test	
++++ b/test	
+@@ -1,1 +1,1 @@
+-ceshi 
+\ No newline at end of file
++ceshi
+\ No newline at end of file
